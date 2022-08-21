@@ -1,3 +1,3 @@
 # Static Page 
 
-## HTML , CSS , JS , Bootstrap , animation lib
+## HTML , CSS , JS , Bootstrap , animation 
